@@ -1,2 +1,2 @@
-# mp3-Player
-mp3 Player Project Using Python
+# MP3 Player
+### MP3 Player Project Using Python
